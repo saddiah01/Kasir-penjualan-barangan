@@ -15,3 +15,13 @@ Sistem Penjualan Barang atau Kasir Berbasis Web adalah aplikasi yang dirancang u
 ◼️JavaScript (jQuery)
 ◼️Backend: PHP
 ◼️Database: MySQL
+
+Demo Sistem: Demo aplikasi sistem kasir berbasis web ini memberikan gambaran langsung tentang bagaimana aplikasi bekerja di lingkungan nyata. Pengguna dapat mencoba fitur-fitur seperti proses transaksi, pengelolaan produk, serta melihat laporan penjualan.
+
+## Keuntungan:
+
+▪️ User-Friendly: Desain aplikasi yang sederhana dan mudah digunakan oleh pemula sekalipun.
+▪️ Aksesibilitas: Sistem berbasis web dapat diakses dari berbagai perangkat dengan koneksi internet.
+▪️ Efisiensi: Mempermudah proses transaksi dan pengelolaan data penjualan serta stok barang.
+
+Sistem ini sangat cocok untuk usaha kecil, warung, atau toko yang ingin mengelola penjualan dengan lebih mudah dan terstruktur. Dapatkan source code dan demo untuk memulai pengelolaan penjualan secara digital.
