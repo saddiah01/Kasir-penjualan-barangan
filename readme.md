@@ -25,3 +25,21 @@ Demo Sistem: Demo aplikasi sistem kasir berbasis web ini memberikan gambaran lan
 ▪️ Efisiensi: Mempermudah proses transaksi dan pengelolaan data penjualan serta stok barang.
 
 Sistem ini sangat cocok untuk usaha kecil, warung, atau toko yang ingin mengelola penjualan dengan lebih mudah dan terstruktur. Dapatkan source code dan demo untuk memulai pengelolaan penjualan secara digital.
+
+## Cara Instalasi
+1. **Clone Repository**:
+    ```bash
+    git clone https://github.com/Saddiah01/Kasir-Penjualan-barangan.git
+    ```
+2. **Pindah ke Direktori Proyek**:
+    ```bash
+    cd Kasir-Penjualan-barangan
+    ```
+3. **Pastikan Server PHP Berjalan**:
+    - Jika menggunakan PHP bawaan:
+      ```bash
+      php -S localhost:8000
+      ```
+    - Jika menggunakan XAMPP atau WAMP, salin file ke direktori `htdocs` Anda.
+4. **Buka Aplikasi di Browser**:
+    - Akses di browser melalui URL: `http://localhost:8000` atau direktori lokal Anda.
