@@ -43,3 +43,25 @@ Sistem ini sangat cocok untuk usaha kecil, warung, atau toko yang ingin mengelol
     - Jika menggunakan XAMPP atau WAMP, salin file ke direktori `htdocs` Anda.
 4. **Buka Aplikasi di Browser**:
     - Akses di browser melalui URL: `http://localhost:8000` atau direktori lokal Anda.
+  
+      Berikut adalah langkah-langkah yang perlu diikuti untuk menginstal sistem kasir penjualan barang berbasis web dari GitHub ke XAMPP: 
+1.	Persiapan Lingkungan Sistem 
+a.	Pastikan Anda sudah menginstal XAMPP di komputer Anda. XAMPP adalah paket perangkat lunak yang mencakup Apache, PHP, dan MySQL yang dibutuhkan untuk menjalankan aplikasi berbasis 
+    web. 
+b.	Pastikan perangkat Anda memiliki koneksi internet yang stabil. 
+c.	Pastikan Anda memiliki editor kode (seperti Visual Studio Code atau Sublime Text) untuk memodifikasi dan memelihara kode jika diperlukan. 
+ 
+ 
+2.	Mengunduh Sistem dari GitHub 
+a.	Kunjungi repository GitHub dari proyek Sistem Kasir penjualan barang. 
+b.	Klik tombol Code di bagian kanan atas dan pilih Download ZIP untuk   mengunduh seluruh kode sumber aplikasi. 
+c.	Ekstrak file ZIP yang sudah diunduh ke dalam folder yang mudah diakses, misalnya C:\xampp\htdocs\Sistem-kasir.
+
+3.	Konfigurasi XAMPP dan Apache 
+a.	Buka aplikasi XAMPP dan jalankan Apache. Pastikan Apache berjalan dengan baik di port yang sesuai.
+b.	Jika ada masalah dengan port, Anda dapat mengubah port di pengaturan Apache melalui XAMPP Control Panel > Config > Apache (httpd.conf) dan mengganti port yang digunakan. 
+
+4.	Menjalankan Aplikasi 
+a.	Setelah semua langkah selesai, buka browser dan akses aplikasi dengan mengetikkan alamat http://localhost/Sistem-kasir di bar alamat. 
+b.	Sistem kalkulator umur sekarang sudah dapat digunakan di komputer Anda dengan Apache dan PHP yang berjalan di XAMPP. 
+
