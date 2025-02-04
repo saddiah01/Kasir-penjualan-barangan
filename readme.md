@@ -45,12 +45,11 @@ Sistem ini sangat cocok untuk usaha kecil, warung, atau toko yang ingin mengelol
     - Akses di browser melalui URL: `http://localhost:8000` atau direktori lokal Anda.
   
       Berikut adalah langkah-langkah yang perlu diikuti untuk menginstal sistem kasir penjualan barang berbasis web dari GitHub ke XAMPP: 
-1.	Persiapan Lingkungan Sistem 
+1. Persiapan Lingkungan Sistem 
 a.	Pastikan Anda sudah menginstal XAMPP di komputer Anda. XAMPP adalah paket perangkat lunak yang mencakup Apache, PHP, dan MySQL yang dibutuhkan untuk menjalankan aplikasi berbasis 
     web. 
 b.	Pastikan perangkat Anda memiliki koneksi internet yang stabil. 
 c.	Pastikan Anda memiliki editor kode (seperti Visual Studio Code atau Sublime Text) untuk memodifikasi dan memelihara kode jika diperlukan. 
- 
  
 2.	Mengunduh Sistem dari GitHub 
 a.	Kunjungi repository GitHub dari proyek Sistem Kasir penjualan barang. 
